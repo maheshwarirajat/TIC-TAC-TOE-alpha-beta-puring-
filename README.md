@@ -8,9 +8,9 @@ python, pygame, minimax algorithm
 just download the files and build on your system
 
 # Features
-sound effects
-restart capability
+sound effects,
+restart capability,
 you can choose turn
 
 # Note
-change the file location in load_sound function in tictactoelib.py file to the location where you'll download your sounds
+change the file location in load_sound function in tictactoelib.py file to the location where you'll download the sounds
