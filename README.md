@@ -13,4 +13,4 @@ restart capability,
 you can choose turn
 
 # Note
-change the file location in load_sound function in tictactoelib.py file to the location where you'll download the sounds
+change the file location in load_sound function in tictactoelib.py file to the location where you'll download the .ogg files from the repository
