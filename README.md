@@ -2,7 +2,7 @@
 classic tic tac toe game with AI agent developed with the help of alpha beta puring algorithm, i can assure you that you can never win against the AI
 
 # To-Do
-implement monte carlo algorithm to solve ultimate tic tac toe
+[1] implement monte carlo algorithm to solve ultimate tic tac toe
 
 # Technologies
 python, pygame, minimax algorithm
